@@ -14,6 +14,7 @@
 		74CE382321BF3DD000E368C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 74CE382121BF3DD000E368C1 /* LaunchScreen.storyboard */; };
 		74CE382E21BF3DD000E368C1 /* UITestIntroTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CE382D21BF3DD000E368C1 /* UITestIntroTests.swift */; };
 		74CE383921BF3DD000E368C1 /* UITestIntroUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CE383821BF3DD000E368C1 /* UITestIntroUITests.swift */; };
+		74CE384721BF413000E368C1 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74CE384621BF413000E368C1 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		74CE383421BF3DD000E368C1 /* UITestIntroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UITestIntroUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		74CE383821BF3DD000E368C1 /* UITestIntroUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UITestIntroUITests.swift; sourceTree = "<group>"; };
 		74CE383A21BF3DD000E368C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		74CE384621BF413000E368C1 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				74CE381821BF3DCD00E368C1 /* AppDelegate.swift */,
 				74CE381A21BF3DCD00E368C1 /* ViewController.swift */,
+				74CE384621BF413000E368C1 /* TableViewController.swift */,
 				74CE381C21BF3DCD00E368C1 /* Main.storyboard */,
 				74CE381F21BF3DD000E368C1 /* Assets.xcassets */,
 				74CE382121BF3DD000E368C1 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				74CE381B21BF3DCD00E368C1 /* ViewController.swift in Sources */,
+				74CE384721BF413000E368C1 /* TableViewController.swift in Sources */,
 				74CE381921BF3DCD00E368C1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
