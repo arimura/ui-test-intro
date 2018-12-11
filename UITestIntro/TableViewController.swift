@@ -30,7 +30,6 @@ class TableViewController: UITableViewController {
         return cell
     }
 
-    
     func getData(){
         let url = URL(string: "https://demo.ckan.org/api/3/action/group_list")
         let task = URLSession.shared.dataTask(with: url!) {(data, response, error) in

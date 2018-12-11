@@ -2,7 +2,6 @@
 //  UITestIntroTests.swift
 //  UITestIntroTests
 //
-//  Created by 有村 皓太郎 on 2018/12/11.
 //  Copyright © 2018年 hormiga6. All rights reserved.
 //
 
